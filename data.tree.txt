@@ -1,0 +1,109 @@
+data
+├── EX
+│   ├── C1_10k_Read1.fq
+│   ├── C1_10k_Read2.fq
+│   ├── C1_read1.fq
+│   ├── C1_read2.fq
+│   ├── C2_10k_Read1.fq
+│   ├── C2_10k_Read2.fq
+│   ├── C2_read1.fq
+│   ├── C2_read2.fq
+│   ├── Drosophila_melanogaster_Ensembl_BDGP5.25.tar.gz
+│   └── practice2
+│       ├── Data
+│       │   ├── TAIR10_pep_20110103_representative_gene_model_updated
+│       │   ├── Trinity.fasta
+│       │   └── blastx_results.txt
+│       ├── IlluminaReads
+│       │   ├── D1_R1.fastq
+│       │   ├── D2_R1.fastq
+│       │   ├── D3_R1.fastq
+│       │   ├── L1_R1.fastq
+│       │   ├── L2_R1.fastq
+│       │   └── L3_R1.fastq
+│       └── Scripts
+│           ├── compile_results.rb
+│           └── merge_express_results.rb
+├── HN
+├── IU
+│   ├── eco_o139.fa
+│   ├── etec_1.fq
+│   └── etec_2.fq
+├── KY
+│   ├── Ex1_1.fq
+│   ├── Ex1_2.fq
+│   ├── Ex1_3.bed
+│   ├── Ex1_4.gtf
+│   ├── Ex1_7.bam
+│   ├── Ex1_7.sam
+│   ├── IGV
+│   │   ├── accepted_hits.bam
+│   │   ├── accepted_hits.bam.bai
+│   │   ├── bowtie2_B2_var.flt.vcf
+│   │   ├── bowtie2_B4_var.flt.vcf
+│   │   ├── buc.genome.fasta
+│   │   ├── buc.genome.fasta.fai
+│   │   ├── buc.gtf
+│   │   ├── buc_cg.wig
+│   │   ├── buc_cg.wig.tdf
+│   │   ├── illumina_ex_B2_Read_bowtie2.mate.sort.bam
+│   │   ├── illumina_ex_B2_Read_bowtie2.mate.sort.bam.bai
+│   │   ├── illumina_ex_B4_Read_bowtie2.mate.sort.bam
+│   │   └── illumina_ex_B4_Read_bowtie2.mate.sort.bam.bai
+│   ├── crude_fastq
+│   │   ├── 2D2L_rep1_R1.fastq
+│   │   ├── 2D2L_rep1_R2.fastq
+│   │   ├── 2D2L_rep2_R1.fastq
+│   │   ├── 2D2L_rep2_R2.fastq
+│   │   ├── 2D2L_rep3_R1.fastq
+│   │   ├── 2D2L_rep3_R2.fastq
+│   │   ├── 2D_rep1_R1.fastq
+│   │   ├── 2D_rep1_R2.fastq
+│   │   ├── 2D_rep2_R1.fastq
+│   │   ├── 2D_rep2_R2.fastq
+│   │   ├── 2D_rep3_R1.fastq
+│   │   └── 2D_rep3_R2.fastq
+│   ├── tophat
+│   │   ├── 2D2L_rep1_R1.fastq
+│   │   ├── 2D2L_rep1_R2.fastq
+│   │   ├── 2D2L_rep2_R1.fastq
+│   │   ├── 2D2L_rep2_R2.fastq
+│   │   ├── 2D2L_rep3_R1.fastq
+│   │   ├── 2D2L_rep3_R2.fastq
+│   │   ├── 2D_rep1_R1.fastq
+│   │   ├── 2D_rep1_R2.fastq
+│   │   ├── 2D_rep2_R1.fastq
+│   │   ├── 2D_rep2_R2.fastq
+│   │   ├── 2D_rep3_R1.fastq
+│   │   ├── 2D_rep3_R2.fastq
+│   │   ├── genes_chr4.gtf
+│   │   ├── genome_chr4.1.bt2
+│   │   ├── genome_chr4.2.bt2
+│   │   ├── genome_chr4.3.bt2
+│   │   ├── genome_chr4.4.bt2
+│   │   ├── genome_chr4.fa
+│   │   ├── genome_chr4.fa.fai
+│   │   ├── genome_chr4.rev.1.bt2
+│   │   └── genome_chr4.rev.2.bt2
+│   └── trim_fastq
+│       ├── 2D2L_rep1_R1.fastq
+│       ├── 2D2L_rep1_R2.fastq
+│       ├── 2D2L_rep2_R1.fastq
+│       ├── 2D2L_rep2_R2.fastq
+│       ├── 2D2L_rep3_R1.fastq
+│       ├── 2D2L_rep3_R2.fastq
+│       ├── 2D_rep1_R1.fastq
+│       ├── 2D_rep1_R2.fastq
+│       ├── 2D_rep2_R1.fastq
+│       ├── 2D_rep2_R2.fastq
+│       ├── 2D_rep3_R1.fastq
+│       └── 2D_rep3_R2.fastq
+├── MS
+│   ├── Sato_A_thaliana-P_syringae_arvRpt2_6h_expRatio_full.txt
+│   └── Sato_A_thaliana-P_syringae_arvRpt2_6h_expRatio_small.txt
+└── SS
+    ├── IlluminaReads1.fq
+    ├── Trinity_Ath2.fasta
+    ├── arab2.txt
+    ├── human.protein.faa
+    └── minimouse_mRNA.fa
